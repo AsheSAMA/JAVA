@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="823635b3-611d-46ad-92fa-f3954a661fe8" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1rBZGuWTWlO6amI34zxKxdB9NwS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.test16">
+    <configuration name="test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test10" />
+      <module name="一切都是对象" />
+      <option name="PROGRAM_PARAMETERS" value="a b c " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test11" />
+      <module name="一切都是对象" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test16" />
+      <module name="一切都是对象" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test8" />
+      <module name="一切都是对象" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test9" />
+      <module name="一切都是对象" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.test8" />
+      <item itemvalue="Application.test9" />
+      <item itemvalue="Application.test10" />
+      <item itemvalue="Application.test11" />
+      <item itemvalue="Application.test16" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test16" />
+        <item itemvalue="Application.test10" />
+        <item itemvalue="Application.test11" />
+        <item itemvalue="Application.test9" />
+        <item itemvalue="Application.test8" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="823635b3-611d-46ad-92fa-f3954a661fe8" name="默认更改列表" comment="" />
+      <created>1618451350581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618451350581</updated>
+      <workItem from="1618451353463" duration="5954000" />
+      <workItem from="1618503457717" duration="1597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2089" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618503734038">
+      <screen x="1920" y="6" width="1920" height="1040" />
+    </state>
+    <state x="2089" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.6.1920.1040@1920.6.1920.1040" timestamp="1618503734038" />
+    <state x="351" y="81" key="#项目结构" timestamp="1618454626466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="351" y="81" key="#项目结构/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1618454626466" />
+    <state width="1118" height="95" key="GridCell.Tab.0.bottom" timestamp="1618505055416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1118" height="95" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1618505055416" />
+    <state width="1114" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.6.1920.1040@1920.6.1920.1040" timestamp="1618503734328" />
+    <state width="1118" height="95" key="GridCell.Tab.0.center" timestamp="1618505055416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1118" height="95" key="GridCell.Tab.0.center/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1618505055416" />
+    <state width="1114" height="198" key="GridCell.Tab.0.center/0.0.1536.824/1920.6.1920.1040@1920.6.1920.1040" timestamp="1618503734328" />
+    <state width="1118" height="95" key="GridCell.Tab.0.left" timestamp="1618505055416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1118" height="95" key="GridCell.Tab.0.left/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1618505055416" />
+    <state width="1114" height="198" key="GridCell.Tab.0.left/0.0.1536.824/1920.6.1920.1040@1920.6.1920.1040" timestamp="1618503734327" />
+    <state width="1118" height="95" key="GridCell.Tab.0.right" timestamp="1618505055416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1118" height="95" key="GridCell.Tab.0.right/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1618505055416" />
+    <state width="1114" height="198" key="GridCell.Tab.0.right/0.0.1536.824/1920.6.1920.1040@1920.6.1920.1040" timestamp="1618503734328" />
+    <state width="1118" height="249" key="GridCell.Tab.1.bottom" timestamp="1618501162450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1118" height="249" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1618501162450" />
+    <state width="1118" height="249" key="GridCell.Tab.1.center" timestamp="1618501162450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1118" height="249" key="GridCell.Tab.1.center/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1618501162450" />
+    <state width="1118" height="249" key="GridCell.Tab.1.left" timestamp="1618501162450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1118" height="249" key="GridCell.Tab.1.left/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1618501162450" />
+    <state width="1118" height="249" key="GridCell.Tab.1.right" timestamp="1618501162450">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1118" height="249" key="GridCell.Tab.1.right/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1618501162450" />
+  </component>
+</project>
